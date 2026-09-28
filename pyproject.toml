@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-sliding-window-flow-control-skill"
+version = "1.0.0"
+description = "TCP sliding window flow control protocol with cumulative ACK and buffer management"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-sliding-window-flow-control-skill.git"
