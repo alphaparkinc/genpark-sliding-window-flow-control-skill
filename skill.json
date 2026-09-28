@@ -1,0 +1,9 @@
+{
+  "name": "genpark-sliding-window-flow-control-skill",
+  "version": "1.0.0",
+  "description": "TCP sliding window flow control protocol with cumulative ACK and buffer management",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
